@@ -1,11 +1,8 @@
 <?
 
-echo "hello world";
-echo "hello world";
-echo "hello world";
-echo "hello world";
-echo "hello world";
-echo "hello world";
+for ($i=0; $i < ; $i++) { 
+	# code...
+}
 
 
 ?>
