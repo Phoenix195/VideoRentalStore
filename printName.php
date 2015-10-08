@@ -10,4 +10,7 @@ mysql_info();
 
 
 highlight_string(str)
+
+
+sdfsdfdsf
 ?>
