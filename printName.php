@@ -6,5 +6,5 @@ echo "Paweee";
 
 
 mysql_info();
-mysql_connect();
+
 ?>
